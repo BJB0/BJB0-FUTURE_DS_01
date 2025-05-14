@@ -64,7 +64,7 @@ Analyze social media posts to identify trending topics and perform sentiment ana
 ## 🔗 Related
 
 - [Future Interns Official Website](https://futureinterns.com)
-- [Dataset Used (Uploaded by Intern)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
+- [Dataset Used](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
 
 ---
 
